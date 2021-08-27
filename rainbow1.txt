@@ -5,3 +5,5 @@ hey rainbow
 new Rainbow
 
 hello rainbow
+
+new rainbow
